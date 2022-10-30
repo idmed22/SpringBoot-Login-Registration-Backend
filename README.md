@@ -1,1 +1,1 @@
-# idmed22-SpringBoot-Login-Registration-Backend
+# SpringBoot-Login-Registration-Backend
